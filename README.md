@@ -22,7 +22,7 @@ Because this build is signed with a custom developer certificate, follow these q
 ### Step 1: Install & Trust the Certificate
 1. Download **`DevCert.pfx`** and double-click it to open the Certificate Import Wizard.
 2. Select **Local Machine** as the Store Location and click **Next**.
-3. Enter the certificate password (`YourPassword123!`) and click **Next**.
+3. Enter the certificate password (`Thejan2013`) and click **Next**.
 4. Select **Place all certificates in the following store**.
 5. Click **Browse...**, select **Trusted Root Certification Authorities**, and click **OK**.
 6. Click **Next** and then **Finish**.
