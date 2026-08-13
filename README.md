@@ -37,7 +37,7 @@ For full legal terms and privacy information, please visit our official document
 
 ## 📸 Screenshots
 
-![MiniatureCarCollector Main Screen](assets/preview.png)
+![MiniatureCarCollector Main Screen](assets/preview_1.png)
 
 ---
 
