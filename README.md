@@ -35,4 +35,10 @@ For full legal terms and privacy information, please visit our official document
 
 ---
 
+## 📸 Screenshots
+
+![MiniatureCarCollector Main Screen](assets/preview.png)
+
+---
+
 Developed with ❤️ by **TR Developers**
