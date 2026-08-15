@@ -44,4 +44,7 @@ For full legal terms and privacy information, please visit our official document
 
 ---
 
+Have a feature request or found a bug? Open an Issue!
+
+---
 Developed with ❤️ by **TR Developers**
